@@ -3,6 +3,7 @@ RENCANA KEDEPANNYA
 - Belajar Java
   * Android
   * Framework
+- Algoritma
 - PHP Framework
 - Interview
 - YouTube
