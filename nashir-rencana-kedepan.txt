@@ -3,7 +3,11 @@ RENCANA KEDEPANNYA
 - Belajar Java
   * Android
   * Framework
+   ~ Grails
+   ~ Spring MVC
 - Algoritma
 - PHP Framework
+  * Laravel
 - Interview
 - YouTube
+- Python
